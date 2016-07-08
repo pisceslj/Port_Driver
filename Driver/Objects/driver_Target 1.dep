@@ -1,0 +1,2 @@
+Dependencies for Project 'driver', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\driver.s)(0x5739A051)(--cpu ARM920T -g --apcs=interwork -I H:\Install\ARM\RV31\INC-I H:\Install\ARM\CMSIS\Include-I H:\Install\ARM\Inc\Samsung--pd "__UVISION_VERSION SETA 518"--list .\listings\driver.lst --xref -o .\objects\driver.o --depend .\objects\driver.d)
